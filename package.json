@@ -1,7 +1,6 @@
 {
   "name": "laityBlog",
   "version": "1.0.0",
-  "main": "./docs/public/index.html",
   "repository": "https://github.com/PetitH/petith.github.io.git",
   "author": "laity",
   "license": "MIT",
