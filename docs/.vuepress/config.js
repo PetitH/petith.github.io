@@ -1,6 +1,6 @@
 module.exports = {
     title: 'laity',
-    dest: '/',
+    dest: 'docs/public',
     themeConfig: {
         sidebar:[{
             title: '获取地理位置授权',
