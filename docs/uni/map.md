@@ -9,7 +9,7 @@ uni.getLocation用于获取当前用户的地理位置、速度。当用户离�
 		},
 ```
 **desc：用于描述获取你的地理位置的原由**
-![WechatIMG204.jpeg](https://upload-images.jianshu.io/upload_images/7635118-309ea44a151acc40.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![An image](./uni_map_example1.jpeg)
 
 
 # 举个页面中使用的🌰：
@@ -49,6 +49,6 @@ function getLocationFun() {
 }
 ```
 # 附上获取当前位置成功后返回的参数
-![image.png](https://upload-images.jianshu.io/upload_images/7635118-c109342a6751e1ce.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![An image](./uni_map_example2.png)
 
 以免因小弟浅薄的理解误导大家，最后附上uni-app关于获取当前位置的文档，具体的大家也可以去官网文档了解：https://uniapp.dcloud.io/api/location/location?id=getlocation
