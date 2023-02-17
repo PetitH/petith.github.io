@@ -1,1 +1,1 @@
-# petith.github.io
+[Go study](https://petith.github.io/)
